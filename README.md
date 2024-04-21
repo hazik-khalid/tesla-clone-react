@@ -25,3 +25,18 @@ A clone of the Tesla website built using React and styled-components. This proje
 
 ```bash
 git clone https://github.com/yourusername/tesla-clone.git
+```
+2. Navigate to the project directory
+```bash
+cd tesla-clone
+```
+3. Install dependencies
+```bash
+npm install
+```
+4. Start the development server
+```bash
+npm start
+```
+### Contributing
+ Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
